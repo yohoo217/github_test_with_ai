@@ -1,0 +1,16 @@
+PODS:
+  - AotterTrek-iOS-SDK (3.8.3)
+
+DEPENDENCIES:
+  - AotterTrek-iOS-SDK (= 3.8.3)
+
+SPEC REPOS:
+  trunk:
+    - AotterTrek-iOS-SDK
+
+SPEC CHECKSUMS:
+  AotterTrek-iOS-SDK: 6026ddc4515802c63967897d86c260db7bc79c10
+
+PODFILE CHECKSUM: c39586181eed015d29583ce9c9d473c35eb24bba
+
+COCOAPODS: 1.11.3

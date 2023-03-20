@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/AotterTrek-iOS-SDK/AotterTrek-iOS-SDK-xcframeworks.sh
+${PODS_ROOT}/AotterTrek-iOS-SDK/AotterTrekSample/AotterTrek-iOS-SDK.xcframework
+${PODS_ROOT}/AotterTrek-iOS-SDK/AotterTrekSample/OMSDK_Aotternet.xcframework

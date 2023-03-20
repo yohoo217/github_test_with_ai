@@ -1,0 +1,2 @@
+${PODS_XCFRAMEWORKS_BUILD_DIR}/AotterTrek-iOS-SDK/AotterTrek-iOS-SDK.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/AotterTrek-iOS-SDK/OMSDK_Aotternet.framework
